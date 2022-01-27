@@ -1,0 +1,187 @@
+header{
+
+
+position:absolute;
+width: 1440px;
+height: 613px;
+left: 0px;
+top: 0px;
+text-align: center;
+
+background: #14213D;
+width: 100%;
+}
+
+h1 {
+   
+position: absolute;
+width: 162px;
+height: 21px;
+left: 640px;
+top: 180px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+
+}
+
+h2{
+    position: absolute;
+width: 797px;
+height: 75px;
+left: 322px;
+top: 196px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+color: #FFFFFF;
+
+}
+
+h3{
+    position: absolute;
+width: 794px;
+height: 23px;
+left: 324px;
+top: 303px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+    color: white;
+}
+
+button{
+
+
+
+border-radius: 25%;
+position: absolute;
+width: 250px;
+height: 75px;
+left: 596px;
+top: 357px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+background-color: orange;
+color: #14213D;
+
+}
+
+div {
+    
+position: absolute;
+width: 439px;
+height: 149px;
+left: 201px;
+top: 876px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+a {
+    position: absolute;
+width: 502px;
+height: 149px;
+left: 767px;
+top: 873px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+p{
+    
+position: absolute;
+width: 450px;
+height: 54px;
+left: 496px;
+top: 715px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #14213D;
+
+}
+
+h4{  
+
+    position: absolute;
+    width: 439px;
+    height: 142px;
+    left: 201px;
+    top: 1339px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #000000;
+    
+
+}
+
+p#3{
+    
+    position: absolute;
+    width: 439px;
+    height: 140px;
+    left: 201px;
+    top: 1416px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+
+
+
+
+}
+
+img{
+    
+position: absolute;
+width: 493px;
+height: 348px;
+left: 767px;
+top: 1264px;
+
+background: url(5264880.jpg);
+background-color: gray;
+}
+
